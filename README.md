@@ -1,6 +1,6 @@
 <h1>Olá, eu sou o Matheus Fernandes, Desenvolvedor Fullstack Jr!</h1>
 
-- 🎲Experiente em Análise de Dados e Elaboraç de Dashboards
+- 🎲Experiente em Análise de Dados e Elaboração de Dashboards
 - ✍🏾Muita bagagem de Planejamento Estratégico
 - 📚Atualmente estudando HTML e CSS
 - 🎮Entusiasta de Indie Games
