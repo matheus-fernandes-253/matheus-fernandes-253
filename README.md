@@ -23,8 +23,3 @@
   <a href="https://www.facebook.com/MatheusEngEletronic/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
 
-
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/0/strawberry-graphql/strawberry/recent-activity/d751713988987e9331980363e24189ce_badge.svg)](https://repography.com)
-[![Timeline graph](https://images.repography.com/0/strawberry-graphql/strawberry/recent-activity/d751713988987e9331980363e24189ce_timeline.svg)](https://github.com/strawberry-graphql/strawberry/commits)
-[![Pull request status graph](https://images.repography.com/0/strawberry-graphql/strawberry/recent-activity/d751713988987e9331980363e24189ce_prs.svg)](https://github.com/strawberry-graphql/strawberry/pulls)
-
